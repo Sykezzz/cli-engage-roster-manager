@@ -1,0 +1,7 @@
+Employee ID,Assignment Type Description,Start Date,End Date,District Name,Community Engage ID,Campus Name,Campus ID,First Name,Middle Name,Last Name,Phone,Phone Type,Email,Secondary Email
+10001,School Specialist,08/01/2025,,Riverbend ISD,RB001,Lincoln Elementary,101,Ana,M,Torres,555-010-1001,Mobile,ana.torres@example.org,
+10002,School Specialist,08/01/2025,,Riverbend ISD,RB001,Lincoln Elementary,101,Ben,,Ortiz,555-010-1002,Work,ben.ortiz@example.org,ben.o.personal@example.org
+10003,Classroom Teacher,08/01/2025,,Riverbend ISD,RB001,Roosevelt Middle,102,Carla,J,Nguyen,555-010-1003,Mobile,carla.nguyen@example.org,
+10004,School Specialist,08/01/2025,10/15/2025,Riverbend ISD,RB001,Roosevelt Middle,102,Derek,,Patel,555-010-1004,Work,derek.patel@example.org,
+10005,School Specialist,10/16/2025,,Riverbend ISD,RB001,Roosevelt Middle,102,Derek,,Patel,555-010-1004,Work,derek.patel@example.org,
+10006,School Specialist,09/01/2025,,Riverbend ISD,RB001,Washington High,103,Elena,R,Kim,555-010-1006,Mobile,elena.kim@example.org,

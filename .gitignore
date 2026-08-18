@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+cliengage_memory.json
+*.csv
+!sample_data/*.csv
+*.xlsx
+!sample_data/*.xlsx
